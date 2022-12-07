@@ -1,2 +1,3 @@
-# entertainmentland.github.io
-this is a test
+# Welcome to entertainment land.
+This is a game site for people if they are bored!
+<button>click</button>
